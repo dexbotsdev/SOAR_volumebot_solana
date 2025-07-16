@@ -14,7 +14,8 @@ I dont have time to market it or develop website or ads, so making it accessible
 Note: Volume Bot runs on a fee based mode, applies 0.1 SOL per Token.
 It may be reduced on request if the user as higher volumes.
 
-![ Volume Bot Strategies](https://www.youtube.com/watch?v=Puxh1aba0GU&t=543s)
 
+[![Watch the video](https://img.youtube.com/vi/Puxh1aba0GU/mqdefault.jpg)](https://youtu.be/Puxh1aba0GU)
+ 
 
 ![ Volume Bot Strategies](https://i.ibb.co/W41X3WyB/photo-2025-06-18-20-37-59.jpg)
